@@ -1,0 +1,14 @@
+name: "4th APN Symposium"
+navbar:
+  title: "4th APN Symposium"
+  type: inverse
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html
+output:
+  html_document:
+    theme: cosmo
+    highlight: textmate
+   
